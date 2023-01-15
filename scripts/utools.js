@@ -1,7 +1,7 @@
 const axios = require('axios')
-const api = 'https://kkapi.wyblog1.tk'
-const token = '123'
-const userId = '61fe93508fd621d39a155725'
+const api = 'https://kkapi.wyblog1.tk/api'
+const token = '63c28a71aa610fa0dc9b6f1a'
+const userId = '63c28a71aa610fa0dc9b6f1a'
 
 const params = {
   token,
