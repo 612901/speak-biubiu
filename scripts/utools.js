@@ -1,5 +1,5 @@
 const axios = require('axios')
-const api = 'https://kkapi-dev.vercel.app/api'
+const api = 'https://kkapi.wyblog1.tk'
 const token = '123'
 const userId = '61fe93508fd621d39a155725'
 
